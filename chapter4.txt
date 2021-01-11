@@ -1,0 +1,2 @@
+Welcome to chapter4
+nano can be used to edit amd create text in a file
